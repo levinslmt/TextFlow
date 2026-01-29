@@ -4,7 +4,7 @@
 
 A clean, responsive todo list application built with vanilla JavaScript to practice web development fundamentals and professional coding patterns.
 
-## ✨ Features
+## Features
 
 - ✅ Add and delete tasks with real-time updates
 - ✅ Persistent storage using LocalStorage API
@@ -13,14 +13,14 @@ A clean, responsive todo list application built with vanilla JavaScript to pract
 - ✅ Keyboard shortcuts (Enter to submit)
 - ✅ Empty state messaging
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **HTML5** - Semantic markup
 - **CSS3** - Flexbox, transitions, media queries
 - **JavaScript (ES6+)** - Vanilla JS, no frameworks
 - **LocalStorage API** - Client-side persistence
 
-## 🚀 Quick Start
+## Quick Start
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/todo-app.git
@@ -34,7 +34,7 @@ open index.html
 
 No installation or build process required!
 
-## 💡 What I Learned
+## What I Learned
 
 - DOM manipulation and event handling
 - LocalStorage API and JSON serialization
@@ -44,7 +44,7 @@ No installation or build process required!
 - Responsive CSS design
 - User experience considerations
 
-## 🏗️ Architecture
+## Architecture
 ```
 Storage Layer → Handles data persistence
      ↓
@@ -53,7 +53,7 @@ TaskManager → Business logic and state
 Event Handlers → User interactions
 ```
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - [ ] Task completion toggle
 - [ ] Edit existing tasks
@@ -62,21 +62,21 @@ Event Handlers → User interactions
 - [ ] Dark mode
 - [ ] Backend API integration
 
-## 📸 Demo
+## Demo
 
 ![App Screenshot](screenshot.png)
 
-## 🤝 Contributing
+## Contributing
 
 Feedback and suggestions welcome! Feel free to open an issue or fork the repo.
 
-## 📝 License
+## License
 
 MIT License - feel free to use this project for learning.
 
-## 👤 Author
+##  Author
 
 levinslmt
 ---
 
-⭐ Star this repo if you found it helpful!
+Star this repo if you found it helpful!
