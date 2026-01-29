@@ -113,7 +113,7 @@ const TaskManager = {
     },
     
     showError(message) {
-        // You could make this fancier with a toast notification
+        
         alert(message);
     }
 };
