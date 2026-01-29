@@ -6,12 +6,12 @@ A clean, responsive todo list application built with vanilla JavaScript to pract
 
 ## Features
 
-- ✅ Add and delete tasks with real-time updates
-- ✅ Persistent storage using LocalStorage API
-- ✅ Input validation and error handling
-- ✅ Mobile-responsive design
-- ✅ Keyboard shortcuts (Enter to submit)
-- ✅ Empty state messaging
+- Add and delete tasks with real-time updates
+- Persistent storage using LocalStorage API
+- Input validation and error handling
+- Mobile-responsive design
+- Keyboard shortcuts (Enter to submit)
+- Empty state messaging
 
 ## Tech Stack
 
