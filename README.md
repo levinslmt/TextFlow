@@ -1,6 +1,6 @@
 # TextFlow
 
-# 📝 Task Management Application
+# Task Management Application
 
 A clean, responsive todo list application built with vanilla JavaScript to practice web development fundamentals and professional coding patterns.
 
